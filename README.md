@@ -21,6 +21,7 @@ Don't see your language in the list below? Search the issues and make sure no on
 |Chinese|Planned|
 |Dutch|Planned|
 |English|**Done**|
+|Finnish|Planned|
 |French|Planned|
 |German|Planned|
 |Italian|Planned|
