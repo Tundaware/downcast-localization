@@ -28,4 +28,5 @@ Don't see your language in the list below? Search the issues and make sure no on
 |Japanese|Planned|
 |Korean|Planned|
 |Portuguese|Planned|
+|Russian|Planned|
 |Spanish|Planned|
