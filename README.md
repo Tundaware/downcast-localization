@@ -19,6 +19,7 @@ Don't see your language in the list below? Search the issues and make sure no on
 | Language | Integration Status |
 | -------- | ------------------ |
 |Chinese|Planned|
+|Danish|Planned|
 |Dutch|Planned|
 |English|**Done**|
 |Finnish|Planned|
@@ -27,6 +28,7 @@ Don't see your language in the list below? Search the issues and make sure no on
 |Italian|Planned|
 |Japanese|Planned|
 |Korean|Planned|
+|Polish|Planned|
 |Portuguese|Planned|
 |Russian|Planned|
 |Spanish|Planned|
